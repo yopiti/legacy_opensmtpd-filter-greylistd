@@ -34,5 +34,5 @@ Build
 -----
 
 `compile.sh` does most of the heavy lifting as long as you execute it in the
-base folder and have `autoconf1.15` and `libtool` installed.
+base folder and have `autoconf1.15`, `libtool` and `fpm (via gem)` installed.
 
